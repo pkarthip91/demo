@@ -8,15 +8,6 @@
          "shippingrecept": "Thin Turner",
          "amount": "158 EUR",
          "status": "new"
-      },
-      {
-        "id": 1,
-        "name": "orderno",
-        "orderdate": "20-07-2020",
-        "invoicerecept": "Karthi",
-        "shippingrecept": "Perumnal",
-        "amount": "158 EUR",
-        "status": "new"
-     }
+      }
     ]
   }
